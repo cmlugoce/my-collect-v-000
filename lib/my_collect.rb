@@ -3,4 +3,4 @@ def my_collect(array)
   collection = []
   while i < array.length 
    yield array[i]
-   
+   colle
